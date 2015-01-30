@@ -71,7 +71,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/New York' # on Windows this must match the system TZ setting. 
+TIME_ZONE = 'America' # on Windows this must match the system TZ setting. 
 
 USE_I18N = True
 
